@@ -6,7 +6,7 @@ In this project i use
 
 2- Proteus 8 Professional for virtual design and run project 
 
-3- pic18f452 microcontroller
+3- pic16f877a microcontroller
 
 4- 2x16 LCD
 
